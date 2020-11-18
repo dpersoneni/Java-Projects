@@ -1,0 +1,7 @@
+package lab07;
+
+public interface Subject {
+    void registerObserver(Observer o);
+    void removeObserver(Observer o);
+    void notiftObserver();
+}
