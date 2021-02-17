@@ -1,5 +1,5 @@
 # Java-Projects
-University projects for learning OOP and software design.
+University projects to learn OOP and software design.
 
 Every project analyse different concepts as design paradigms.
 
